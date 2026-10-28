@@ -138,3 +138,7 @@ plt.title("Loss during Training")
 plt.show()
 ```
 <img width="915" height="587" alt="image" src="https://github.com/user-attachments/assets/86e9583b-4747-4430-9930-4526332553fb" />
+
+RESULT
+
+Thus, a neural network regression model was successfully developed and trained using PyTorch.
